@@ -23,10 +23,10 @@ The objective is to demonstrate practical technical problem-solving through stru
 
 | Incident ID | Incident Description | Technology | Status |
 |---|---|---|---|
-| INC0001001 | Active Directory Domain Discovery and Domain Join Failures | Active Directory / DNS | Closed |
-| INC0001002 | Windows Server Evaluation-to-Standard Conversion Failure | Windows Server 2022 | Resolved |
-| INC0001003 | Microsoft Entra ID Authentication Incident | Microsoft Entra ID / IAM | Closed |
-| INC0001004 | Gatekeeper-01 Linux Administrative Access Recovery | Debian Linux / Pi-hole | Closed |
+| [INC0001001](./INC0001001-Active-Directory-DNS/) | Active Directory Domain Discovery and Domain Join Failures | Active Directory / DNS | Closed |
+| [INC0001002](./INC0001002-Windows-Server-Activation/) | Windows Server Evaluation-to-Standard Conversion Failure | Windows Server 2022 | Resolved |
+| [INC0001003](./INC0001003-Entra-ID-Authentication/) | Microsoft Entra ID Authentication Incident | Microsoft Entra ID / IAM | Closed |
+| [INC0001004](./INC0001004-Linux-Access-Recovery/) | Gatekeeper-01 Linux Administrative Access Recovery | Debian Linux / Pi-hole | Closed |
 
 ## Incident Management Lifecycle
 
